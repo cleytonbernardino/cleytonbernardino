@@ -9,10 +9,9 @@
   <summary> <b>📚Estudando</b></summary> <br>
   <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonbernardino&layout=compact&langs_count=7&hide_border=true&theme=default&title_color=00a884&text_color=cdd2d5&icon_color=58a6fe&cache_seconds=1800&bg_color=121b22" align="right"/>
 
-- 📙 PYTHON
-- 📘 DJANGO <br>
-- 📗 CSS <br>
-- 📘 REACT
+- 📗 C#
+- 📙 .Net
+- 📘 .Net Maui
 </details>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cleytonbernardino&fire=FF0625D8&theme=whatsapp-dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
